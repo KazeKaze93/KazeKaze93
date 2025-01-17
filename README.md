@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My GitBooks:
+https://kaze.gitbook.io/qa-theory
+https://kaze.gitbook.io/english
 <!--
 **KazeKaze93/KazeKaze93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
