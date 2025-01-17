@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <div id="header" align="center">
   <img src="https://i.gifer.com/origin/07/0712a3da4204ed312ec28629ce2fd29c_w200.gif" width="200"/>
@@ -30,8 +30,15 @@
 ---
 
 ### 📊 GitHub Stats:
-<!-- Добавьте статистику, если хотите -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KazeKaze93&show_icons=true&theme=radical)
+
+<!-- Статистика streak -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=KazeKaze93&theme=dark)](https://git.io/streak-stats)
+
+<!-- Общая статистика -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KazeKaze93&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Статистика по языкам -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazeKaze93&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
