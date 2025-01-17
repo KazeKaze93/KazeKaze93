@@ -2,8 +2,49 @@
 
 <div id="header" align="center">
   <img src="https://i.gifer.com/origin/07/0712a3da4204ed312ec28629ce2fd29c_w200.gif" width="200"/>
+  
+  <!-- Счётчик просмотров -->
+  <img src="https://komarev.com/ghpvc/?username=KazeKaze93&style=flat-square&color=blue" alt=""/>
 </div>
 
-My GitBooks:
-- https://kaze.gitbook.io/qa-theory
-- https://kaze.gitbook.io/english
+---
+
+### 📚 My GitBooks:
+- [QA Theory](https://kaze.gitbook.io/qa-theory)
+- [English](https://kaze.gitbook.io/english)
+
+---
+
+### 🛠️ Technologies & Tools:
+<!-- Иконки технологий, которые вы хотите видеть -->
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Shell" alt="Shell" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/selenide.png" title="Selenide" alt="Selenide" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/kivy.png" title="Kivy" alt="Kivy" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/swing.png" title="Swing" alt="Swing" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/testng.png" title="TestNG" alt="TestNG" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/junit.png" title="JUnit" alt="JUnit" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/playwright.png" title="Playwright" alt="Playwright" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/allure.png" title="Allure" alt="Allure" width="40" height="40"/>
+</div>
+
+---
+
+### 📊 GitHub Stats:
+<!-- Добавьте статистику, если хотите -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KazeKaze93&show_icons=true&theme=radical)
+
+---
+
+### 🔗 Connect with me:
+<!-- Добавьте ссылки на ваши соцсети или другие платформы -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-username)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
