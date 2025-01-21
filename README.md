@@ -44,6 +44,5 @@
 
 ### 🔗 Connect with me:
 <!-- Добавьте ссылки на ваши соцсети или другие платформы -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-username)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%BA%D0%B0%D1%85%D0%B0-%D1%85%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0%D0%B4%D0%B7%D0%B5-7624b3348/)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/[kbhinikadze])
