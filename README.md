@@ -1,41 +1,40 @@
-
-
-<div id="header" align="center">
-  <img src="https://i.gifer.com/origin/07/0712a3da4204ed312ec28629ce2fd29c_w200.gif" width="200"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
+  <h1>Hi, I'm KazeKaze93</h1>
+  <h3>QA Automation Engineer (Python / Java / C#)</h3>
   
-  <!-- Счётчик просмотров -->
-  <div style="text-align: center;">
-    <img src="https://komarev.com/ghpvc/?username=KazeKaze93&style=flat-square&color=blue" alt=""/>
-  </div>
+  <a href="https://kaze.gitbook.io/qa-theory">
+    <img src="https://img.shields.io/badge/Wiki-QA_Theory-blue?style=for-the-badge&logo=gitbook" />
+  </a>
+  <a href="https://kaze.gitbook.io/english">
+    <img src="https://img.shields.io/badge/Notes-English-orange?style=for-the-badge&logo=gitbook" />
+  </a>
 </div>
 
+<br/>
+
+### 👨‍💻 About Me
+I break software so you don't have to. Specializing in building robust test automation frameworks and CI/CD pipelines.
+* **Main Stack:** Python (Pytest), Java.
+* **Currently Learning:** Advanced architectural patterns in AQA.
+
 ---
 
-### 📚 My GitBooks:
-- [QA Theory](https://kaze.gitbook.io/qa-theory)
-- [English](https://kaze.gitbook.io/english)
+### 🛠️ Tech Stack & Tools
+
+| Languages | Automation & Web | CI/CD & Tools |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python,java,cs" /> | <img src="https://skillicons.dev/icons?i=selenium,playwright,postman" /> | <img src="https://skillicons.dev/icons?i=docker,git,jenkins,postgres,kafka" /> |
 
 ---
 
-### 🛠️ Technologies & Tools:
-<!-- Иконки технологий, которые вы хотите видеть -->
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Shell" alt="Shell" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="40" height="40"/>
+### 📊 Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KazeKaze93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazeKaze93&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide=html,css,jupyter%20notebook,shell" height="150" alt="langs" />
 </div>
 
----
-
-### 📊 GitHub Stats:
-
-
-<!-- Общая статистика -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KazeKaze93&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Статистика по языкам -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazeKaze93&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KazeKaze93&style=flat-square&color=blueviolet" alt=""/>
+</div>
