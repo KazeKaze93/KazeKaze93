@@ -1,28 +1,44 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
+  <h1>Hi, I'm KazeKaze93</h1>
+  <h3>QA Automation Engineer (Python / Java / C#)</h3>
+  
+  <a href="https://kaze.gitbook.io/qa-theory">
+    <img src="https://img.shields.io/badge/Wiki-QA_Theory-blue?style=for-the-badge&logo=gitbook" />
+  </a>
+  <a href="https://kaze.gitbook.io/english">
+    <img src="https://img.shields.io/badge/Notes-English-orange?style=for-the-badge&logo=gitbook" />
+  </a>
+</div>
+
+<br/>
+
+### 👨‍💻 About Me
+I break software so you don't have to. Specializing in building robust test automation frameworks and CI/CD pipelines.
+* **Main Stack:** Python (Pytest), Java.
+* **Currently Learning:** Advanced architectural patterns in AQA.
+
+---
+
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" height="40" alt="kafka logo" style="filter: invert(1);" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" style="filter: invert(1);" /> 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cs,postgres,kafka,bash,selenium,docker,git&theme=dark" />
+  </a>
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"/>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KazeKaze93&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" alt="KazeKaze93's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KazeKaze93&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&hide_title=true&cache_seconds=0" height="160" alt="stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazeKaze93&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&hide=html,css,jupyter%20notebook" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazeKaze93&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&hide=html,css,jupyter%20notebook&cache_seconds=0" height="160" alt="langs" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KazeKaze93&style=flat-square&color=blueviolet" alt=""/>
 </div>
