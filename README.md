@@ -1,41 +1,44 @@
-
-
-<div id="header" align="center">
-  <img src="https://i.gifer.com/origin/07/0712a3da4204ed312ec28629ce2fd29c_w200.gif" width="200"/>
+<div align="center">
+  <img src="https://i.gifer.com/origin/07/0712a3da4204ed312ec28629ce2fd29c_w200.gif" width="150"/>
   
-  <!-- Счётчик просмотров -->
-  <div style="text-align: center;">
-    <img src="https://komarev.com/ghpvc/?username=KazeKaze93&style=flat-square&color=blue" alt=""/>
-  </div>
+  <h2 align="center">QA Automation Engineer</h2>
+
+  <img src="https://komarev.com/ghpvc/?username=KazeKaze93&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 ---
 
-### 📚 My GitBooks:
+### 📚 Knowledge Base
 - [QA Theory](https://kaze.gitbook.io/qa-theory)
-- [English](https://kaze.gitbook.io/english)
+- [English Notes](https://kaze.gitbook.io/english)
 
 ---
 
-### 🛠️ Technologies & Tools:
-<!-- Иконки технологий, которые вы хотите видеть -->
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Shell" alt="Shell" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="40" height="40"/>
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="kafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
 </div>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
-
-<!-- Общая статистика -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KazeKaze93&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Статистика по языкам -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazeKaze93&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KazeKaze93&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true" alt="KazeKaze93's GitHub stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazeKaze93&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&hide=html,css,jupyter%20notebook" alt="Top Langs" />
+</div>
