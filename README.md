@@ -14,16 +14,14 @@
 <br/>
 
 ### 👨‍💻 About Me
-I break software so you don't have to. Specializing in building robust test automation frameworks and CI/CD pipelines.
 * **Main Stack:** Python (Pytest), Java.
-* **Currently Learning:** Advanced architectural patterns in AQA.
 
 ---
 
 ### 🛠️ Tech Stack
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cs,postgres,kafka,bash,selenium,docker,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,java,cs,postgres,sqlite3,kafka,selenium,playwright,typescript,javascript,react,git&theme=dark" />
   </a>
   <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"/>
@@ -32,12 +30,6 @@ I break software so you don't have to. Specializing in building robust test auto
 ---
 
 ### 📊 Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KazeKaze93&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&hide_title=true&cache_seconds=0" height="160" alt="stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazeKaze93&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&hide=html,css,jupyter%20notebook&cache_seconds=0" height="160" alt="langs" />
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KazeKaze93&style=flat-square&color=blueviolet" alt=""/>
