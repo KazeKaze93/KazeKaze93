@@ -21,7 +21,7 @@
 ### 🛠️ Tech Stack
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cs,postgres,sqlite3,kafka,selenium,playwright,typescript,javascript,react,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,java,cs,postgres,sqlite,kafka,selenium,typescript,javascript,react,git&theme=dark" />
   </a>
   <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"/>
