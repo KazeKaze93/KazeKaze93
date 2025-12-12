@@ -34,11 +34,15 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazeKaze93&layout=compact&langs_count=6&theme=dark&hide_title=true" alt="Топ языков KazeKaze93" />
     
-    <br/>
-    
-    <img src="https://github-readme-stats.vercel.app/api?username=KazeKaze93&show_icons=true&theme=dark&hide_title=true&hide=contribs" alt="Статистика KazeKaze93" />
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazeKaze93&layout=compact&langs_count=6&theme=dark&hide_title=true&exclude_langs=markdown,html" alt="Топ языков KazeKaze93" />
+    
+    <br/>
+    
+    <img src="https://github-readme-stats.vercel.app/api?username=KazeKaze93&show_icons=true&theme=dark&hide_title=true&hide=contribs" alt="Статистика KazeKaze93" />
 
-    <br/>
-    
-        <img src="https://komarev.com/ghpvc/?username=KazeKaze93&style=flat-square&color=blueviolet" alt="Счетчик просмотров"/>
+    <br/>
+    
+        <img src="https://komarev.com/ghpvc/?username=KazeKaze93&style=flat-square&color=blueviolet" alt="Счетчик просмотров"/>
+</div>
 </div>
