@@ -31,10 +31,12 @@
 
 ### 📊 Statistics
 
+### 📊 Statistics
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazeKaze93&layout=compact&langs_count=6&theme=dark&hide_title=true&exclude_langs=markdown,html" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazeKaze93&layout=compact&langs_count=6&theme=dark&hide_title=true&exclude_langs=markdown,html,css" alt="Top Languages" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=KazeKaze93&show_icons=true&theme=dark&hide_title=true" alt="General Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=KazeKaze93&show_icons=true&theme=dark&hide_title=true&hide_border=false" alt="GitHub Stats" />
 <br/>
 <img src="https://komarev.com/ghpvc/?username=KazeKaze93&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </div>
