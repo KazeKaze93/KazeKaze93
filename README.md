@@ -32,9 +32,9 @@
 ### 📊 Statistics
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazeKaze93&layout=compact&langs_count=6&theme=dark&hide_title=true&exclude_langs=markdown,html" alt="Топ языков KazeKaze93" />
-    
-    <img src="https://github-readme-stats.vercel.app/api?username=KazeKaze93&show_icons=true&theme=dark&hide_title=true" alt="Статистика KazeKaze93" />
-
-    <img src="https://komarev.com/ghpvc/?username=KazeKaze93&style=flat-square&color=blueviolet" alt="Счетчик просмотров"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazeKaze93&layout=compact&langs_count=6&theme=dark&hide_title=true&exclude_langs=markdown,html" alt="Top Langs" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=KazeKaze93&show_icons=true&theme=dark&hide_title=true" alt="General Stats" />
+<br/>
+<img src="https://komarev.com/ghpvc/?username=KazeKaze93&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </div>
