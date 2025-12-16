@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
-  <h1>Hi, I'm KazeKaze93</h1>
+  <h1>Hi, I'm Kaze</h1>
   <h3>QA Automation Engineer (Python / Java / Typescript)</h3>
   
   <a href="https://kaze.gitbook.io/qa-theory">
