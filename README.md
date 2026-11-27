@@ -39,13 +39,11 @@ preview thumbnails for your prompt styles. One idea, two hosts.
   <tr>
     <td align="center">
       <a href="https://github.com/KazeKaze93/sd-webui-style-organizer"><b>sd-webui-style-organizer</b></a><br/>
-      <sub>AUTOMATIC1111 · Forge · reForge</sub><br/>
-      <a href="https://github.com/KazeKaze93/sd-webui-style-organizer/stargazers"><img src="https://img.shields.io/github/stars/KazeKaze93/sd-webui-style-organizer?style=flat-square&label=stars&labelColor=161b22&color=8b5cf6" alt="GitHub stars"/></a>
+      <sub>AUTOMATIC1111 · Forge · reForge</sub>
     </td>
     <td align="center">
       <a href="https://github.com/KazeKaze93/sd-comfyui-style-organizer"><b>sd-comfyui-style-organizer</b></a><br/>
-      <sub>ComfyUI custom node</sub><br/>
-      <a href="https://github.com/KazeKaze93/sd-comfyui-style-organizer/stargazers"><img src="https://img.shields.io/github/stars/KazeKaze93/sd-comfyui-style-organizer?style=flat-square&label=stars&labelColor=161b22&color=8b5cf6" alt="GitHub stars"/></a>
+      <sub>ComfyUI custom node</sub>
     </td>
   </tr>
 </table>
@@ -67,8 +65,7 @@ visual editor.
   <tr>
     <td align="center">
       <a href="https://github.com/KazeKaze93/sd-comic-lettering"><b>sd-comic-lettering</b></a><br/>
-      <sub>AUTOMATIC1111 · Forge · reForge · ComfyUI</sub><br/>
-      <a href="https://github.com/KazeKaze93/sd-comic-lettering/stargazers"><img src="https://img.shields.io/github/stars/KazeKaze93/sd-comic-lettering?style=flat-square&label=stars&labelColor=161b22&color=8b5cf6" alt="GitHub stars"/></a>
+      <sub>AUTOMATIC1111 · Forge · reForge · ComfyUI</sub>
     </td>
   </tr>
 </table>
