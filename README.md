@@ -13,6 +13,8 @@
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#-comic-lettering"><b>Comic Lettering</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#-text-fix"><b>Text Fix</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#-smaller-things"><b>Smaller things</b></a>
 </p>
 
@@ -65,6 +67,28 @@ visual editor.
   <tr>
     <td align="center">
       <a href="https://github.com/KazeKaze93/sd-comic-lettering"><b>sd-comic-lettering</b></a><br/>
+      <sub>AUTOMATIC1111 · Forge · reForge · ComfyUI</sub>
+    </td>
+  </tr>
+</table>
+
+## 🔤 Text Fix
+
+Image models write `POLLICE` on a police vest and `LTAANING` over a bakery. Text Fix finds that text, wipes it
+and writes yours in its place: same spot, size, slant and color, lit the way the surface under it is lit. The
+model then blends the letters in. An MVP in active development.
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/KazeKaze93/sd-text-fix">
+        <img src="https://raw.githubusercontent.com/KazeKaze93/sd-text-fix/main/docs/images/hero.jpg" alt="Three images as generated, and the same images with the text fixed" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/KazeKaze93/sd-text-fix"><b>sd-text-fix</b></a><br/>
       <sub>AUTOMATIC1111 · Forge · reForge · ComfyUI</sub>
     </td>
   </tr>
